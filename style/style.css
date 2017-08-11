@@ -1,0 +1,4 @@
+/* Give the cancel button (which is actually an anchor tag) some padding */
+form a {
+    margin-left: 5px;
+}
